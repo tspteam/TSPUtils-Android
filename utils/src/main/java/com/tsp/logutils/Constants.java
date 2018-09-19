@@ -1,7 +1,4 @@
 package com.tsp.logutils;
-/*
- * Created by Shukri.
- */
 
 public class Constants {
     public final static String USERNAME_PREFERENCE = "username_preference";

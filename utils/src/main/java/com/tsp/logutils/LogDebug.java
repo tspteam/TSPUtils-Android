@@ -1,8 +1,4 @@
 package com.tsp.logutils;
-/*
- * Created by Shukri.
- */
-
 import android.util.Log;
 
 public class LogDebug {
