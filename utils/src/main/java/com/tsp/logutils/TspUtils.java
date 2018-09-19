@@ -1,7 +1,5 @@
 package com.tsp.logutils;
-/*
- * Created by Shukri.
- */
+
 
 import android.app.Activity;
 import android.content.Context;
